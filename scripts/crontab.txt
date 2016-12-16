@@ -1,0 +1,1 @@
+*/2 * * * * /opt/nodeprojects/twitterkafkapoc/scripts/checkRestartTwitterStream.sh >> /var/log/twitterkafkapoc/shellRestartTwitterStream.log
