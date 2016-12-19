@@ -1,1 +1,2 @@
 */2 * * * * /opt/nodeprojects/twitterkafkapoc/scripts/checkRestartTwitterStream.sh >> /var/log/twitterkafkapoc/shellRestartTwitterStream.log
+30 23 * * * /home/GvAdmin/Hive_Partition.sh >> /var/log/hivepartitionscreation.log
